@@ -13,7 +13,6 @@ BYPASS_TELEGRAM_AUTH=true  - it's true during the tests
 
 First of all you need to set up Mongo DB database and seed it with tasks ('/prisma/seed'). 
 Check the 'utils/game-mechanics' to update game related values.
-Wait for more detailed instructions and updates. Check the official website: https://nikandr.com/
 
 ## Getting Started
 
